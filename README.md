@@ -1,4 +1,4 @@
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610932054021.png" width="30%"
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610932054021.png" width="40%"
   alt="Cez Octocat" align="right" />
 ### <h2>Hi there, I'm Cezene 👽</h2>
 <h3> 👩🏻‍🎓 Software Development Student at <a
