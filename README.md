@@ -1,6 +1,6 @@
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610932054021.png" width="30%"
   alt="Cez Octocat" align="right" />
-
+### Hi there, I'm Cezene 👽
 <p> 👩🏻‍🎓 Software Development Student at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
