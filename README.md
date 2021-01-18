@@ -1,11 +1,11 @@
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610932054021.png" width="30%"
   alt="Cez Octocat" align="right" />
-### Hi there, I'm Cezene 👽
-<p> 👩🏻‍🎓 Software Development Student at <a
+### <h2>Hi there, I'm Cezene 👽</h2>
+<h3> 👩🏻‍🎓 Software Development Student at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
   >Trybe 
-   </a></p>
+   </a></h3>
 
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cezene&show_icons=true)
