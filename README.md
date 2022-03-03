@@ -1,11 +1,7 @@
 
 <div align="center">
   <h2>Hi there, I'm Cezene 👽</h2>
-  <h3> 👩‍💻 Front End Developer at 
-    <a href="https://www.linkedin.com/in/cezene-neves/" 
-    alt="Oito's Linkedin"
-    >Oito 
-      </a>
+  <h3> 👩‍💻 Front End Developer
   </h3>
 </div>
 <div style="display: inline_block" align="center">
